@@ -1,0 +1,12 @@
+---
+:id: 147949520
+:submitters:
+- :name: Manan Mayur Patel
+  :email: mpatel608@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-10 23:31:55.030648000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-10 15:31:55.030648000 Z
+:status: processed
+:score: 11.0
